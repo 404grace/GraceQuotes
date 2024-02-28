@@ -1,3 +1,39 @@
+import { useEffect } from "react";
+import { useState } from "react";
+import Quote from "./Quote.jsx";
+import { Badge } from "@/components/ui/badge";
+
 export default function App() {
-  return <div>Odpri `src/App.jsx` in prični s pisanjem svoje aplikacije!</div>;
+  const [quotes, setQuotes] = useState([]);
+  const [tags, setTags] = useState(["tag1", "tag2", "tag3", "tag4"]);
+
+  async function getQuotes() {
+    const request = await fetch("/quotes.json");
+    const podatki = await request.json();
+
+    setQuotes(podatki);
+  }
+
+  useEffect(() => {
+    getQuotes();
+  }, []);
+
+  useEffect(() => {
+    console.log(quotes);
+  }, [quotes]);
+
+  return (
+    <div className="p-4">
+      <div>
+        {tags.map((tag) => (
+          <Badge>{tag}</Badge>
+        ))}
+      </div>
+      <div className="grid grid-cols-3 gap-2">
+        {quotes.map((el) => (
+          <Quote quote={el}></Quote>
+        ))}
+      </div>
+    </div>
+  );
 }

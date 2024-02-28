@@ -1,0 +1,502 @@
+[
+  {
+    "_id": "3dgyDeYuO_m8",
+    "content": "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
+    "author": "John Muir",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "john-muir",
+    "length": 89,
+    "dateAdded": "2020-01-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "pbtIgsCUIU",
+    "author": "Sam Levenson",
+    "content": "Don't watch the clock; do what it does. Keep going.",
+    "tags": ["Motivational"],
+    "authorSlug": "sam-levenson",
+    "length": 51,
+    "dateAdded": "2022-07-06",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "dZewn83VJ8",
+    "content": "Science gives us knowledge, but only philosophy can give us wisdom.",
+    "author": "Will Durant",
+    "tags": ["Wisdom"],
+    "authorSlug": "will-durant",
+    "length": 67,
+    "dateAdded": "2019-12-02",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "mQqRWF49Ug",
+    "content": "The ultimate promise of technology is to make us master of a world that we command by the push of a button.",
+    "author": "Volker Grassmuck",
+    "tags": ["Technology"],
+    "authorSlug": "volker-grassmuck",
+    "length": 107,
+    "dateAdded": "2020-03-11",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "VdR9FbAuXXzH",
+    "content": "God has given you one face, and you make yourself another.",
+    "author": "William Shakespeare",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "william-shakespeare",
+    "length": 58,
+    "dateAdded": "2021-03-26",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "A5l8yCGO4BL5",
+    "content": "Forgiveness is choosing to love. It is the first skill of self-giving love.",
+    "author": "Mahatma Gandhi",
+    "tags": ["Wisdom"],
+    "authorSlug": "mahatma-gandhi",
+    "length": 75,
+    "dateAdded": "2019-12-13",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "LJdZayGhYgjp",
+    "content": "Everything that exists is in a manner the seed of that which will be.",
+    "author": "Marcus Aurelius",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "marcus-aurelius",
+    "length": 69,
+    "dateAdded": "2019-02-17",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "2iQU_-0nv8x",
+    "content": "Our strength grows out of our weaknesses.",
+    "author": "Ralph Waldo Emerson",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "ralph-waldo-emerson",
+    "length": 41,
+    "dateAdded": "2019-02-13",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "uQwITry_sQQv",
+    "content": "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
+    "author": "Confucius",
+    "tags": ["Wisdom"],
+    "authorSlug": "confucius",
+    "length": 89,
+    "dateAdded": "2020-02-22",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "o8Xc7pO8Y1aD",
+    "content": "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
+    "author": "René Descartes",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "rene-descartes",
+    "length": 88,
+    "dateAdded": "2020-09-05",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "kSFeXJtKMAfD",
+    "content": "Much wisdom often goes with fewer words.",
+    "author": "Sophocles",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "sophocles",
+    "length": 40,
+    "dateAdded": "2020-03-11",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "97oN1n9-l",
+    "content": "Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?",
+    "author": "Thomas Jefferson",
+    "tags": ["Friendship"],
+    "authorSlug": "thomas-jefferson",
+    "length": 187,
+    "dateAdded": "2020-01-26",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "5ewQ54oqW1HS",
+    "content": "It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.",
+    "author": "Max Planck",
+    "tags": ["Success"],
+    "authorSlug": "max-planck",
+    "length": 140,
+    "dateAdded": "2019-12-02",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "DyZj6SSzYL1",
+    "content": "Be great in act, as you have been in thought.",
+    "author": "William Shakespeare",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "william-shakespeare",
+    "length": 45,
+    "dateAdded": "2019-03-24",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "8UvlA-VR9T",
+    "content": "When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.",
+    "author": "Morihei Ueshiba",
+    "tags": ["Wisdom"],
+    "authorSlug": "morihei-ueshiba",
+    "length": 101,
+    "dateAdded": "2021-05-05",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "CkDdotg_n1T",
+    "content": "Don't smother each other. No one can grow in the shade.",
+    "author": "Leo Buscaglia",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "leo-buscaglia",
+    "length": 55,
+    "dateAdded": "2021-04-23",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "xzOfgffA_i4K",
+    "content": "Not what we have but what we enjoy constitutes our abundance.",
+    "author": "Jean Antoine Petit-Senn",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "jean-antoine-petit-senn",
+    "length": 61,
+    "dateAdded": "2021-01-20",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "4XDrxqT1-YwP",
+    "content": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
+    "author": "Nikola Tesla",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "nikola-tesla",
+    "length": 104,
+    "dateAdded": "2020-03-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "mvAZepcjue",
+    "content": "Start with what is right rather than what is acceptable.",
+    "author": "Franz Kafka",
+    "tags": ["Wisdom"],
+    "authorSlug": "franz-kafka",
+    "length": 56,
+    "dateAdded": "2020-02-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "4eekGH2qL80L",
+    "content": "He who lives in harmony with himself lives in harmony with the world.",
+    "author": "Marcus Aurelius",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "marcus-aurelius",
+    "length": 69,
+    "dateAdded": "2020-07-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "bejpH5vesL0",
+    "author": "The Buddha",
+    "content": "Better than a thousand useless words is one useful word, upon hearing which one attains peace.",
+    "tags": ["Wisdom", "Character"],
+    "authorSlug": "the-buddha",
+    "length": 94,
+    "dateAdded": "2023-03-30",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "VDDodhULiss2",
+    "content": "It is through science that we prove, but through intuition that we discover.",
+    "author": "Henri Poincaré",
+    "tags": ["Famous Quotes", "Science", "Technology"],
+    "authorSlug": "henri-poincare",
+    "length": 76,
+    "dateAdded": "2020-09-29",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "qTGVTGcMFdZ",
+    "content": "Imagination rules the world.",
+    "author": "Napoleon",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "napoleon",
+    "length": 28,
+    "dateAdded": "2020-02-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "zZGkrVvwzUaZ",
+    "content": "Education is the most powerful weapon which you can use to change the world.",
+    "author": "Nelson Mandela",
+    "tags": ["Change", "Wisdom"],
+    "authorSlug": "nelson-mandela",
+    "length": 76,
+    "dateAdded": "2020-03-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "n9hmgKxlcKXC",
+    "content": "It is in your moments of decision that your destiny is shaped.",
+    "author": "Tony Robbins",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "tony-robbins",
+    "length": 62,
+    "dateAdded": "2020-04-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "rWlO2ihzqhk",
+    "content": "Better be ignorant of a matter than half know it.",
+    "author": "Publilius Syrus",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "publilius-syrus",
+    "length": 49,
+    "dateAdded": "2020-03-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "CtXK_S3aJG",
+    "content": "Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'",
+    "author": "Bill Bradley",
+    "tags": ["Wisdom"],
+    "authorSlug": "bill-bradley",
+    "length": 137,
+    "dateAdded": "2020-10-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "dyPLKxIFG-Sq",
+    "content": "The only journey is the one within.",
+    "author": "Rainer Maria Rilke",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "rainer-maria-rilke",
+    "length": 35,
+    "dateAdded": "2019-03-24",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "LpBt1VcHO",
+    "content": "Love is flower like; Friendship is like a sheltering tree.",
+    "author": "Samuel Taylor Coleridge",
+    "tags": ["Friendship"],
+    "authorSlug": "samuel-taylor-coleridge",
+    "length": 58,
+    "dateAdded": "2020-02-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "mjKwHGRjIE",
+    "content": "The more you like yourself, the less you are like anyone else, which makes you unique.",
+    "author": "Walt Disney",
+    "tags": ["Wisdom"],
+    "authorSlug": "walt-disney",
+    "length": 86,
+    "dateAdded": "2021-01-20",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "DvEuabi2lH8",
+    "content": "I think and that is all that I am.",
+    "author": "Wayne Dyer",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "wayne-dyer",
+    "length": 34,
+    "dateAdded": "2020-07-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "0PnL1GPc2muX",
+    "content": "The greatest good you can do for another is not just share your riches but reveal to them their own.",
+    "author": "Benjamin Disraeli",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "benjamin-disraeli",
+    "length": 100,
+    "dateAdded": "2019-09-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "FcLu0VCtTW",
+    "content": "Remember that the most valuable antiques are dear old friends.",
+    "author": "H. Jackson Brown Jr.",
+    "tags": ["Friendship"],
+    "authorSlug": "h-jackson-brown-jr",
+    "length": 62,
+    "dateAdded": "2019-09-19",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "PCE3W7VuJfnu",
+    "content": "There is nothing so useless as doing efficiently that which should not be done at all.",
+    "author": "Peter Drucker",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "peter-drucker",
+    "length": 86,
+    "dateAdded": "2019-09-23",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "HL4UTxkSa_Zq",
+    "content": "With every experience, you alone are painting your own canvas, thought by thought, choice by choice.",
+    "author": "Oprah Winfrey",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "oprah-winfrey",
+    "length": 100,
+    "dateAdded": "2019-12-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "UNlGWHNGjOXe",
+    "content": "Do all things with love.",
+    "author": "Og Mandino",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "og-mandino",
+    "length": 24,
+    "dateAdded": "2019-11-26",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "3ZiVwxeuF5k",
+    "content": "Where there is great love, there are always miracles.",
+    "author": "Willa Cather",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "willa-cather",
+    "length": 53,
+    "dateAdded": "2021-04-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "1q5znXik9aXV",
+    "content": "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
+    "author": "Marian Wright Edelman",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "marian-wright-edelman",
+    "length": 94,
+    "dateAdded": "2019-08-03",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "AeJkfzeXkGnI",
+    "content": "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
+    "author": "Thích Nhất Hạnh",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "thich-nhat-hanh",
+    "length": 131,
+    "dateAdded": "2019-11-16",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "fPbyWAYY7Sd4",
+    "content": "Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.",
+    "author": "The Buddha",
+    "tags": ["Wisdom"],
+    "authorSlug": "the-buddha",
+    "length": 131,
+    "dateAdded": "2020-10-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "94-9NFLcRNOc",
+    "content": "What lies behind us and what lies before us are small matters compared to what lies within us.",
+    "author": "Oliver Wendell Holmes Jr.",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "oliver-wendell-holmes-jr",
+    "length": 94,
+    "dateAdded": "2021-01-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "jyhL7RAa4Duz",
+    "content": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
+    "author": "Wayne Dyer",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "wayne-dyer",
+    "length": 85,
+    "dateAdded": "2020-01-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "F-hSEwf4KdGY",
+    "content": "We choose our joys and sorrows long before we experience them.",
+    "author": "Kahlil Gibran",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "kahlil-gibran",
+    "length": 62,
+    "dateAdded": "2020-11-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "KBBVyoNtUib6",
+    "content": "Most great people have attained their greatest success just one step beyond their greatest failure.",
+    "author": "Napoleon Hill",
+    "tags": ["Success"],
+    "authorSlug": "napoleon-hill",
+    "length": 99,
+    "dateAdded": "2020-01-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "Bq6av0SmGqQG",
+    "content": "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+    "author": "Kahlil Gibran",
+    "tags": ["Famous Quotes", "Wisdom"],
+    "authorSlug": "kahlil-gibran",
+    "length": 87,
+    "dateAdded": "2019-06-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "Lpf8FgZIUNqR",
+    "content": "Know, first, who you are, and then adorn yourself accordingly.",
+    "author": "Epictetus",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "epictetus",
+    "length": 62,
+    "dateAdded": "2020-11-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "vpHGlmeIu3Oz",
+    "content": "We never understand how little we need in this world until we know the loss of it.",
+    "author": "J. M. Barrie",
+    "tags": ["Famous Quotes", "Wisdom"],
+    "authorSlug": "j-m-barrie",
+    "length": 82,
+    "dateAdded": "2019-08-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "Jsh8Bmjmnf",
+    "content": "Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.",
+    "author": "Benjamin Franklin",
+    "tags": ["Wisdom", "Politics", "Social Justice", "Freedom"],
+    "authorSlug": "benjamin-franklin",
+    "length": 129,
+    "dateAdded": "2019-10-18",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "eOgY1uyEvIl8",
+    "content": "He who conquers others is strong; He who conquers himself is mighty.",
+    "author": "Laozi",
+    "tags": ["Wisdom"],
+    "authorSlug": "laozi",
+    "length": 68,
+    "dateAdded": "2019-09-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "w_JEQv9o4sF",
+    "content": "The truest wisdom is a resolute determination.",
+    "author": "Napoleon",
+    "tags": ["Famous Quotes", "Wisdom"],
+    "authorSlug": "napoleon",
+    "length": 46,
+    "dateAdded": "2020-02-07",
+    "dateModified": "2023-04-14"
+  }
+]
